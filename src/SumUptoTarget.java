@@ -1,5 +1,5 @@
 public class SumUptoTarget {
-        public static void main(String[] args){
+       public static void main(String[] args){
             int[] array = {12,23,12,33,44,22,1,3,4};
             int target = 40;
             SumuptoTarget(array,target);
